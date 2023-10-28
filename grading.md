@@ -1,7 +1,8 @@
 # Grading: 
 
 > Please **note** that without the reflection journal, I will not be able to grade your homework.
-> Maximum points per week in [(Markdown)] or [(pdf)]. Please keep track of your progress.
+
+> Maximum points that can be earned each week are at this link: [(Markdown)] or [(pdf)]. Please keep track of your progress.
 
 
 ### Grading Criteria for Web Development TX00EY23-3002: 
